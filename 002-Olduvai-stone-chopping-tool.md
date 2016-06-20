@@ -9,6 +9,10 @@ Where is Olduvai Gorge?
 What is a marrow scoop?
 
 
+## Listen
+
+[Olduvai stone chopping tool](http://www.bbc.co.uk/ahistoryoftheworld/objects/ykHw5-oqQEGFnvat1gavxA)
+
 ## After listening
 
 [This video shows David Attenborough holding the Olduvai
@@ -32,7 +36,7 @@ On a timeline showing the making of this tool and the present day, where
 would the mummy of Hornedjitef fit in? Closer to which end?
 
 
-## More Info
+## Links
 
 [1934,1214.1 - The Olduvai stone chopping tool](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1469849&partId=1) - Unfortunately there is no picture on the web site.
 

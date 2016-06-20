@@ -1,4 +1,4 @@
-# Ep. 1 - Mummy of Hornedjitef
+# 1. Mummy of Hornedjitef
 
 ## Before listening
 
@@ -21,7 +21,12 @@ What is arthritis?
 What is colonialism? 
 
 
-## After listening
+## Listen
+
+[Mummy of Hornedjitef](http://www.bbc.co.uk/ahistoryoftheworld/objects/sogITE3FSKStlk12qd2W3w)
+
+
+## Discussion
 
 Before hearing this episode, I had thought only Egyptian pharoahs were
 mummified. But Hornedjitef was not a pharaoh. Look up Egyptian burial
@@ -33,12 +38,13 @@ that it is not so bad to have Egyptian artifacts on display all over the
 world. What are the possible counterarguments? When was the mummy of
 Hornedjitef excavated? Who ruled Egypt at the time?
 
-Why was this object selected for the program? (Hints: The program gives
-two reasons. One is personal. The other has to do with information and
-what sort of work goes on at the museum behind the scenes.)
+Why was this object selected for the first program in the series?
+(Hints: The program gives two reasons. One is personal. The other has to
+do with information and what sort of work goes on at the British
+Museum.)
 
 
-## More info
+## Links
 
 [EA6678: Base and lid of the anthropoid wooden inner coffin of Hornedjitef](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=128988&partId=1)
 
@@ -53,17 +59,17 @@ what sort of work goes on at the museum behind the scenes.)
 
 ## Rationale
 
-A definition of *economics* cannot convey to a student what the subject
-matter of economics is really like. The questions about famine and
-Amartya Sen are meant to help illustrate economics (not Sen's work) by
-example. [This 5-minute video is a better introduction to Amartya Sen.](http://www.mruniversity.com/courses/development-economics/amartya-sen-1-0)
+A definition of the word *economics* cannot convey to a student what the
+subject matter of economics is really like. The questions about famine
+and Amartya Sen are meant to help illustrate economics (not Sen's work)
+by example. [This video is a better 5-minute introduction to
+Amartya Sen.](http://www.mruniversity.com/courses/development-economics/amartya-sen-1-0)
 
 The program promotes a view of history as a "joint effort". I did not
 put in a discussion question about this because I think it's better to
 keep it light for now. I think the purpose of that part of the program
-was mainly to convey the show's aspirations. Either the series will back
-this up or it will not; in any case a beginning student of history is
-not in a position to evaluate the view.
+was mainly to convey the show's aspirations. In any case a beginning
+student of history is not in a position to evaluate the view.
 
 (Alternatively, the "joint effort" stuff in this episode might be an
 argument for world history, which is rather new, emerging as an academic
