@@ -14,6 +14,8 @@ Where is Heathrow airport?
 
 What is a Briton?
 
+Where is the Norfolk coast of England?
+
 Where is Doggerland?
 
 What does *ergonomic* mean?
@@ -75,3 +77,23 @@ inventor and industrial designer.
 [Nick Ashton](http://www.britishmuseum.org/about_us/departments/staff/prehistory_and_europe/nick_ashton.aspx),
 curator of Palaeolithic and Mesolithic collections at the British
 Museum.
+
+[Making Tools and Making Sense: Complex, Intentional Behaviour in
+Human Evolution](https://www.researchgate.net/publication/32897125). Stout
+D, Chaminade T (2009) CAJ. From the abstract: "Recent functional brain
+imaging studies of stone tool-making [...] demonstrate overlap with
+neural circuits involved in language processing [, ...] consistent with
+the hypothesis that language and tool-making [...] evolved together in a
+mutually reinforcing way."
+
+[The Manipulative Complexity of Lower Paleolithic Stone
+Toolmaking](https://www.researchgate.net/publication/47756068). Faisal
+A, Stout D, Apel J, Bradley B (2010) PLoS ONE. The authors used a data
+glove to record the motions of an expert knapper making stone tools in
+two styles. (The Olduvai handaxe of this program is the older of the two
+styles.) The study "is consistent with a scenario in which the earliest
+stages of human technological evolution depended on novel
+perceptual-motor capacities (such as the control of joint stiffness)
+whereas later developments increasingly relied on enhanced mechanisms
+for cognitive control" and "suggests possible links between toolmaking
+and language evolution".
