@@ -57,7 +57,8 @@ this handaxe, or later?
 
 The program says the handaxe was the "cutting edge of technology" for a
 million years. Does the program explain why technology didn't advance
-for such a long period of time? What do you think?
+for such a long period of time? What do you think? (Some papers linked
+below hint at an answer.)
 
 
 ## Links
@@ -72,7 +73,9 @@ factory in Marlborough, until he became a full-time archaeologist
 in 1971."
 
 [Sir James Dyson](https://en.wikipedia.org/wiki/James_Dyson), British
-inventor and industrial designer.
+inventor and industrial designer. "His first original invention, the
+Ballbarrow, was a modified version of a wheelbarrow using a ball instead
+of a wheel."
 
 [Nick Ashton](http://www.britishmuseum.org/about_us/departments/staff/prehistory_and_europe/nick_ashton.aspx),
 curator of Palaeolithic and Mesolithic collections at the British
