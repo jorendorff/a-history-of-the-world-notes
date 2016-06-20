@@ -1,4 +1,5 @@
 # 1. Mummy of Hornedjitef
+240 BC
 
 ## Before listening
 
@@ -19,6 +20,9 @@ What is bitumen?
 What is arthritis?
 
 What is colonialism? 
+
+(bonus) What was the Norman conquest of England? When did it happen? Who
+were Harold II and William the Conquerer?
 
 
 ## Listen
@@ -61,17 +65,20 @@ Museum.)
 
 ## Rationale
 
+The "bonus" pre-work question about the Battle of Hastings prepares the
+student to get one throwaway joke in the program. Take it or leave it!
+
 A definition of the word *economics* cannot convey to a student what the
 subject matter of economics is really like. The questions about famine
 and Amartya Sen are meant to help illustrate economics (not Sen's work)
 by example. [This video is a better 5-minute introduction to
 Amartya Sen.](http://www.mruniversity.com/courses/development-economics/amartya-sen-1-0)
 
-The program promotes a view of history as a "joint effort". I did not
-put in a discussion question about this because I think it's better to
-keep it light for now. I think the purpose of that part of the program
-was mainly to convey the show's aspirations. In any case a beginning
-student of history is not in a position to evaluate the view.
+The program promotes a view of history as a "joint effort". I decided
+not to put in a discussion question about this, for now. I think that
+part of the program serves mainly to convey the show's aspirations. No
+compelling logical argument is presented here in the first episode, but
+the theme is, as promised, revisited later in the series.
 
 (Alternatively, the "joint effort" stuff in this episode might be an
 argument for world history, which is rather new, emerging as an academic

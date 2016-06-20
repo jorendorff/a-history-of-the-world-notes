@@ -1,4 +1,6 @@
 # 2. Olduvai stone chopping tool
+Olduvai Gorge  
+about 2 million years ago
 
 ## Before listening
 
@@ -28,16 +30,17 @@ How do we know it's so old?
 The program claims that two things set human toolmaking apart from
 toolmaking in other animal species. What are they?
 
-What link does the program make between this stone tool and the
-development of human intelligence?
+The program says that this stone tool played a part in the development
+of human intelligence. How?
 
 Is it true that "we can't survive without the things we make"?
 What things do modern humans rely on?
 
 Why was this object selected for the program?
 
-On a timeline showing the making of this tool and the present day, where
-would the mummy of Hornedjitef fit in? Closer to which end?
+Draw a timeline showing the making of this tool on the left end, and the
+present day on the right. Now add the mummy of Hornedjitef to the
+timeline.  (It was made around 240 BC.)
 
 
 ## Links
@@ -71,3 +74,19 @@ Today, there's a museum at Olduvai Gorge.
 [picture 1](https://www.google.com/maps/place/Olduwai+Gorge/@-2.992469,35.351291,3a,75y,90t/data=!3m8!1e2!3m6!1s69927358!2e1!3e10!6s%2F%2Flh3.googleusercontent.com%2Fproxy%2Fzo7ln_SaN2OGx_FzFN1_2iXEJ-gGP8Fy9YF8EmijC-6mOBB81Uu2xpc3fZu_JBHHXomng1gHyGWq2eqzofo10Cot7EdBFA%3Dw212-h100!7i2121!8i1000!4m5!3m4!1s0x183385bddad6ea95:0xa067a2e7565f241b!8m2!3d-2.9666667!4d35.3666667),
 [picture 2](https://www.google.com/maps/place/Olduwai+Gorge/@-2.995124,35.352499,3a,75y,90t/data=!3m8!1e2!3m6!1s53328211!2e1!3e10!6s%2F%2Flh5.googleusercontent.com%2Fproxy%2F4lPODCzvbeHPtDCsa0LGJXUR-MimYr_dqdUwB1T7C8LpwVwM685fVW2TWn3QB_yMkyCCzV21osWaKcr0P1j_QlovayjTKA%3Dw203-h152!7i2560!8i1920!4m5!3m4!1s0x183385bddad6ea95:0xa067a2e7565f241b!8m2!3d-2.9666667!4d35.3666667).
 
+
+## Rationale
+
+I included the "timeline" question to convey the time scale we're
+talking about here.
+
+Doing a timeline properly requires some math, but it's easy math. You
+can start by figuring out what distance along your timeline equals one
+year of time. Measure the distance between the two dots on your timeline
+that mark "two million years ago" and "now". That length—perhaps ten
+inches—represents two million years, right? So divide by two million and
+you get the length that represents one year. Then multiply that by the
+number of years between 240 BC and the present to get the distance
+between Hornedjitef and the present day. It is a short distance. The
+first time I tried it, Hornedjitef's place along the timeline was
+*inside* the fat pencil mark that I had labeled "now".
