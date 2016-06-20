@@ -8,6 +8,8 @@ Where is Olduvai Gorge?
 
 What is a marrow scoop?
 
+What does *versatile* mean?
+
 
 ## Listen
 
@@ -23,10 +25,11 @@ How do we know it is a tool, made by a person for a purpose?
 
 How do we know it's so old?
 
-Why are stone tools linked with human intelligence?
-
 The program claims that two things set human toolmaking apart from
 toolmaking in other animal species. What are they?
+
+What link does the program make between this stone tool and the
+development of human intelligence?
 
 Is it true that "we can't survive without the things we make"?
 What things do modern humans rely on?
@@ -39,7 +42,8 @@ would the mummy of Hornedjitef fit in? Closer to which end?
 
 ## Links
 
-[1934,1214.1 - The Olduvai stone chopping tool](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1469849&partId=1) - Unfortunately there is no picture on the web site.
+[1934,1214.1 - The Olduvai stone chopping tool](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1469849&partId=1) - Unfortunately,
+there is no picture on the web site.
 
 [Chopper (archaeology)](https://en.wikipedia.org/wiki/Chopper_%28archaeology%29)
 
@@ -51,13 +55,14 @@ old.
 environmental and political activist.
 
 [Sir David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough),
-English wildlife filmmaker and naturalist.
+English wildlife filmmaker and naturalist. One of his documentary
+series, *Life*, is currently streaming on Netflix.
 
 [Lincoln's Inn](http://www.lincolnsinn.org.uk/), mentioned in the
 program because Archbishop Ussher was a preacher there, is less than a
 mile from the British Museum.
 
-[The Ussher chronology](https://en.wikipedia.org/wiki/Ussher_chronology).
+[The Ussher chronology](https://en.wikipedia.org/wiki/Ussher_chronology) -
 Genesis does not specify the year, day, month, or hour of Creation. This
 Wikipedia article explains how Archbishop Ussher arrived at the date
 October 23, 4004 BC.
