@@ -25,7 +25,7 @@ What is colonialism?
 
 [Mummy of Hornedjitef](http://www.bbc.co.uk/ahistoryoftheworld/objects/sogITE3FSKStlk12qd2W3w)
 
-![Image of the inner mummy case](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hornedjitef_mummy_british_museum.JPG/896px-Hornedjitef_mummy_british_museum.JPG)
+![Image of the inner mummy case](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hornedjitef_mummy_british_museum.JPG/179px-Hornedjitef_mummy_british_museum.JPG)
 
 
 ## Discussion

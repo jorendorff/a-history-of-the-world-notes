@@ -29,7 +29,7 @@ What do you take with you when you travel?
 
 [Olduvai handaxe](http://www.bbc.co.uk/ahistoryoftheworld/objects/I3I8quLCR8exvdZeQPONrw)
 
-![Image of Olduvai handaxe](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/British_Museum_Olduvai_handaxe.jpg/591px-British_Museum_Olduvai_handaxe.jpg)
+![Image of Olduvai handaxe](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/British_Museum_Olduvai_handaxe.jpg/237px-British_Museum_Olduvai_handaxe.jpg)
 
 
 ## Discussion
