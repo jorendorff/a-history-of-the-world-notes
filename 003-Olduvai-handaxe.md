@@ -1,5 +1,9 @@
 # 3. Olduvai handaxe
 
+1.2 million years ago  
+found in Olduvai Gorge, Tanzania
+
+
 ## Before listening
 
 What is a Swiss army knife?
@@ -8,7 +12,7 @@ What is quartzite?
 
 How big is a cricket ball?
 
-What does *knap* mean?
+What is knapping?
 
 Where is Heathrow airport?
 
@@ -46,7 +50,8 @@ Why might this handaxe be associated with human speech?
 Does it take more planning to make a handaxe, compared to the chopping
 tool?
 
-Does the handaxe make travel possible?
+The program says that the handaxe made it possible for humans to spread
+all over the world. How?
 
 Did the people who made the Olduvai handaxe make other tools as well?
 Did they use other materials for their tools? (Hint: How many things of
