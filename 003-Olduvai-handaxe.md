@@ -48,8 +48,8 @@ people needed a drill for?
 
 Why might this handaxe be associated with human speech?
 
-Does it take more planning to make a handaxe, compared to the chopping
-tool?
+Are you convinced that it takes more planning and imagination to make a
+handaxe, compared to a simple stone chopping tool?
 
 The program says that the handaxe made it possible for humans to spread
 all over the world. How?
@@ -68,6 +68,10 @@ below hint at an answer.)
 
 
 ## Links
+
+[1934,1214.49 - handaxe](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=808737&partId=1&searchText=Olduvai+handaxe&material=18048&page=1) -
+The Museum has 84 Olduvai handaxes. This might be the one: it's
+green phonolite and inconveniently large.
 
 [Phil Harding](https://en.wikipedia.org/wiki/Phil_Harding_%28archaeologist%29),
 British field archaeologist and expert flint-knapper. "As a young boy,
