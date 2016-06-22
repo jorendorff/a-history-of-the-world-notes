@@ -11,7 +11,8 @@ What is *Homo sapiens*?
 
 What is an Ice Age? When did the most recent one end?
 
-What is *naturalism* in art?
+What is *naturalism* in art? (It may be easiest to understand this by
+contrasting naturalism with other styles.)
 
 Where is the Serengeti? What is remarkable about it?
 
@@ -67,10 +68,10 @@ one mentioned in the program, but it could be.)
 
 Archaeologist
 [Steven Mithen](https://en.wikipedia.org/wiki/Steven_Mithen) researches
-the cognitive development of humankind. Two books of his are
-[*The Prehistory of the Mind: The Cognitive Origins of Art, Religion, and Science*](https://www.goodreads.com/book/show/769461.The_Prehistory_of_the_Mind?from_search=true&search_version=service)
+the cognitive development of humankind. Two of his books are
+[*The Prehistory of the Mind*](https://www.goodreads.com/book/show/769461.The_Prehistory_of_the_Mind?from_search=true&search_version=service)
 and
-[*The Singing Neanderthals: The Origins of Music, Language, Mind, and Body*](https://www.goodreads.com/book/show/375579.The_Singing_Neanderthals?from_search=true&search_version=service).
+[*The Singing Neanderthals*](https://www.goodreads.com/book/show/375579.The_Singing_Neanderthals?from_search=true&search_version=service).
 
 A sampling of the oldest known prehistoric art:
 
@@ -101,9 +102,17 @@ A sampling of the oldest known prehistoric art:
 The oldest known [petroglyphs](https://en.wikipedia.org/wiki/Petroglyph)
 are about 10,000 to 12,000 years old.
 
-[*Homo sapinens* Is as *Homo sapiens* Was](http://www.jstor.org/stable/10.1086/658067?seq=1),
+[*Homo sapiens* Is as *Homo sapiens* Was](http://www.jstor.org/stable/10.1086/658067?seq=1),
 a paper. Not everyone agrees with the
 ["behavioral modernity"](https://en.wikipedia.org/wiki/Behavioral_modernity)
 hypothesis, i.e. that a whole range of behaviors specific to *Homo
 sapiens*, including art, emerged together in a "revolution" due to
 something happening in the brain 50,000 years ago.
+
+
+## Rationale
+
+Rowan Williams says some provocative things in this episode
+(particularly the bit about religion and art diverging later until by
+now they're peering at each other from distant mountaintops), but I
+don't feel qualified to comment.
