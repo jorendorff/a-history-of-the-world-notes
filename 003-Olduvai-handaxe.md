@@ -1,6 +1,7 @@
 # 3. Olduvai handaxe
 
-1.2 million years ago  
+Phonolite
+about 1.2 million years ago  
 found in Olduvai Gorge, Tanzania
 
 

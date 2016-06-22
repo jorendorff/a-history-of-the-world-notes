@@ -1,6 +1,9 @@
 # 2. Olduvai stone chopping tool
+
+Basalt
 Olduvai Gorge  
 about 2 million years ago
+
 
 ## Before listening
 
