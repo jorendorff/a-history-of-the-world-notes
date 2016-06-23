@@ -59,6 +59,7 @@ with a spear in order to kill it. Why not? How does the spear kill?
 species in the Americas went extinct. What were these species? Does the
 program say what caused their extinction? Is there another possibility?
 (Hint: What other large-scale natural event happened at the same time?)
+Did any large American mammal species survive?
 
 The program says that around 7500 BC, the Americas were cut off from the
 rest of the world, until the arrival of the Europeans, nine thousand
