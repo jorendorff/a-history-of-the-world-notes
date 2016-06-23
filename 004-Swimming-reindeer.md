@@ -29,6 +29,9 @@ What are "form" and "function" in art?
 Wikipedia.](https://en.wikipedia.org/wiki/Swimming_Reindeer)
 You should look at these.
 
+The British Museum web site offers [30 more
+photographs](http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=33738001&objectId=808748&partId=1#more-views).
+
 
 ## Discussion
 
