@@ -33,7 +33,7 @@ on a different scale, showing only the most recent events, as if you're
 
 [Clovis spear point](http://www.bbc.co.uk/ahistoryoftheworld/objects/hLAME-wiTyaZU2KQf-P5vA)
 
-![Image of the sculpture](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sleeping_Reindeer_-_horizontal.jpg/800px-Sleeping_Reindeer_-_horizontal.jpg)
+![Image of a Clovis spear point](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Clovis_spear_point.jpg/375px-Clovis_spear_point.jpg)
 
 
 ## Discussion
@@ -91,6 +91,8 @@ Does it seem to you that the pace of events is accelerating?
 
 
 ## Links
+
+[1962,1206.137: Clovis point](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3175535&partId=1)
 
 [Clovis culture (Wikipedia)](https://en.wikipedia.org/wiki/Clovis_culture).
 
