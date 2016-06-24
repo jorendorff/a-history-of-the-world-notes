@@ -1,6 +1,6 @@
 # 5. Clovis Spear Point
 
-Stone  
+Flint  
 13,000 years ago  
 found in Arizona, US
 
