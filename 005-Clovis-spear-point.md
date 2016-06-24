@@ -20,6 +20,8 @@ history. Here are some things you may want to put on it:
 *   the Last Glacial Maximum (marking the turning point of the most
     recent Ice Age)
 
+*   the end of the most recent Ice Age
+
 *   the first human migration out of Africa
 
 We'll keep adding things to our timeline as we go. At some point you'll
@@ -57,9 +59,9 @@ with a spear in order to kill it. Why not? How does the spear kill?
 
 (research) Around 11,000 to 10,000 years ago, most of the large mammal
 species in the Americas went extinct. What were these species? Does the
-program say what caused their extinction? Is there another possibility?
-(Hint: What other large-scale natural event happened at the same time?)
-Did any large American mammal species survive?
+program say what caused their extinction? Is there any other possible
+explanation? (Hint: What other large-scale natural event happened at
+the same time?) Did any large American mammal species survive?
 
 The program says that around 7500 BC, the Americas were cut off from the
 rest of the world, until the arrival of the Europeans, nine thousand
@@ -103,6 +105,10 @@ Does it seem to you that the pace of events is accelerating?
 from Asia, the pattern of migration, its timing, and the place(s) of
 origin in Asia of the peoples who migrated to the Americas remain
 unclear."
+
+The land bridge that connected Asia to the Americas has a name:
+[Beringia](https://en.wikipedia.org/wiki/Beringia) (after the
+Bering strait).
 
 [Quaternary extinction
 event](https://en.wikipedia.org/wiki/Quaternary_extinction_event).
