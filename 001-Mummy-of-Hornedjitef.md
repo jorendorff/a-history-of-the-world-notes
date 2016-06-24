@@ -24,7 +24,7 @@ What is arthritis?
 What is colonialism? 
 
 (bonus) What was the Norman conquest of England? When did it happen? Who
-were Harold II and William the Conquerer?
+were Harold II and William the Conqueror?
 
 
 ## Listen
@@ -36,7 +36,7 @@ were Harold II and William the Conquerer?
 
 ## Discussion
 
-Before hearing this episode, I had thought only Egyptian pharoahs were
+Before hearing this episode, I had thought only Egyptian pharaohs were
 mummified. But Hornedjitef was not a pharaoh. Look up Egyptian burial
 practices. Who in Egyptian society was mummified?
 

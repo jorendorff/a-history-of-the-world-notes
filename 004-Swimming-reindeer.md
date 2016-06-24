@@ -89,7 +89,7 @@ A sampling of the oldest known prehistoric art:
 
 *   [The Mask of Roche-Cotard](http://news.bbc.co.uk/2/hi/science/nature/3256228.stm)
     is an "enigmatic object" about 33,000 years old, discovered in France
-    in 1975, that some archaologists call a Neanderthal "proto-figurine".
+    in 1975, that some archaeologists call a Neanderthal "proto-figurine".
     There is not much other evidence of Neanderthal art.
 
 *   [The lion-man of the Hohlenstein-Stadel](https://en.wikipedia.org/wiki/Lion-man),
