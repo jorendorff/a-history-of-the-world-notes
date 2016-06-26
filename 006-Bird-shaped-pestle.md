@@ -68,7 +68,7 @@ moving from India to the UK, which had no decent Indian food at the
 time. Her 1973 cookbook, *An Invitation to Indian Cooking*, is credited
 with introducing Indian food to UK and American cooks.
 
-[Martin Jones](https://www.cam.ac.uk/people/martin-jones), archaeologist
+[Martin Jones](http://www.arch.cam.ac.uk/directory/mkj12), archaeologist
 at the University of Cambridge.
 
 [Sir Bob Geldof](https://en.wikipedia.org/wiki/Bob_Geldof) was lead

@@ -24,6 +24,8 @@ Where is the Dead Sea?
 
 What is a staple crop?
 
+What does *sedentary* mean?
+
 
 ## Listen
 

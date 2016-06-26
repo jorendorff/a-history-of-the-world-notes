@@ -52,7 +52,8 @@ sense that the natural order is being disturbed, that humans are
 trespassing on territory that's properly reserved for the gods." What do
 you think?
 
-(research) Corn and beans are traditionally eaten together. Why?
+(research) Corn and beans are traditionally eaten together. Is there a
+nutritional reason for this?
 
 (research) What is the biggest agricultural product of the United States
 today?
