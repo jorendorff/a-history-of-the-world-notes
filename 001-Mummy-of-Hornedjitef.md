@@ -30,7 +30,9 @@ were Harold II and William the Conqueror?
 
 ## Listen
 
-[Mummy of Hornedjitef](http://www.bbc.co.uk/ahistoryoftheworld/objects/sogITE3FSKStlk12qd2W3w)
+[Listen to this program online:
+"Mummy of Hornedjitef"](http://www.bbc.co.uk/ahistoryoftheworld/objects/sogITE3FSKStlk12qd2W3w)
+([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode1/))
 
 ![Image of the inner mummy case](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hornedjitef_mummy_british_museum.JPG/179px-Hornedjitef_mummy_british_museum.JPG)
 

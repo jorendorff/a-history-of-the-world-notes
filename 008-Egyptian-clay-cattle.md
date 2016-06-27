@@ -22,7 +22,8 @@ Who is Indiana Jones?
 
 ## Listen
 
-[Egyptian clay model of cattle](http://www.bbc.co.uk/ahistoryoftheworld/objects/ba9VK4iRQUybd1KMGnRimQ)
+[Listen to this program online:
+"Egyptian clay model of cattle"](http://www.bbc.co.uk/ahistoryoftheworld/objects/ba9VK4iRQUybd1KMGnRimQ)
 ([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode8/))
 
 ![Image of the clay cattle](http://www.britishmuseum.org/collectionimages/AN00410/AN00410037_001_l.jpg)

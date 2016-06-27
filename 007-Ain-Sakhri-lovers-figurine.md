@@ -29,7 +29,8 @@ What does *sedentary* mean?
 
 ## Listen
 
-[Ain Sakhri lovers figurine](http://www.bbc.co.uk/ahistoryoftheworld/objects/vNEwNR8rSzGPSwSn3yeJwA)
+[Listen to this program online:
+"Ain Sakhri lovers figurine"](http://www.bbc.co.uk/ahistoryoftheworld/objects/vNEwNR8rSzGPSwSn3yeJwA)
 ([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode7/))
 
 ![Image of the Ain Sakhri lovers.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lovers_9000BC_british_museum.jpg/318px-Lovers_9000BC_british_museum.jpg)

@@ -26,7 +26,8 @@ What are foodies?
 
 ## Listen
 
-[Maya maize god statue](http://www.bbc.co.uk/ahistoryoftheworld/objects/Hvi54RDiQym6Pgd3_IsRKA)
+[Listen to this program online:
+"Maya maize god statue"](http://www.bbc.co.uk/ahistoryoftheworld/objects/Hvi54RDiQym6Pgd3_IsRKA)
 ([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode9/))
 
 ![Image of the statue](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Maya_maize_god_statue.jpg/270px-Maya_maize_god_statue.jpg)

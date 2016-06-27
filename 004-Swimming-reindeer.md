@@ -21,7 +21,9 @@ What are "form" and "function" in art?
 
 ## Listen
 
-[Swimming reindeer](http://www.bbc.co.uk/ahistoryoftheworld/objects/DyfP6g6dRN6WdwdnbIVbPw)
+[Listen to this program online:
+"Swimming reindeer"](http://www.bbc.co.uk/ahistoryoftheworld/objects/DyfP6g6dRN6WdwdnbIVbPw)
+([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode4/))
 
 ![Image of the sculpture](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sleeping_Reindeer_-_horizontal.jpg/800px-Sleeping_Reindeer_-_horizontal.jpg)
 

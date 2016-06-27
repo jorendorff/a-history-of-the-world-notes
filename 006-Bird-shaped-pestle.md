@@ -30,7 +30,9 @@ What was the Fertile Crescent?
 
 ## Listen
 
-[Bird-shaped pestle](http://www.bbc.co.uk/ahistoryoftheworld/objects/xQBDvzBRSrqVQYQ5ECaZwA)
+[Listen to this program online:
+"Bird-shaped pestle"](http://www.bbc.co.uk/ahistoryoftheworld/objects/xQBDvzBRSrqVQYQ5ECaZwA)
+([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode6/))
 
 ![Image of the pestle](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bird-shaped_pestle%2C_British_Museum.jpg/219px-Bird-shaped_pestle%2C_British_Museum.jpg)
 

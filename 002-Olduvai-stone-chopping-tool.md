@@ -18,7 +18,9 @@ What does *versatile* mean?
 
 ## Listen
 
-[Olduvai stone chopping tool](http://www.bbc.co.uk/ahistoryoftheworld/objects/ykHw5-oqQEGFnvat1gavxA)
+[Listen to this program online:
+"Olduvai stone chopping tool"](http://www.bbc.co.uk/ahistoryoftheworld/objects/ykHw5-oqQEGFnvat1gavxA)
+([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode2/))
 
 
 ## After listening

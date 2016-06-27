@@ -15,7 +15,8 @@ What is a Japanese tea ceremony?
 
 ## Listen
 
-[Jomon pot](http://www.bbc.co.uk/ahistoryoftheworld/objects/tKmMd2a9SBuOeTay4eiStQ)
+[Listen to this program online:
+"Jomon pot"](http://www.bbc.co.uk/ahistoryoftheworld/objects/tKmMd2a9SBuOeTay4eiStQ)
 ([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode10/))
 
 ![Image of the pot](http://www.britishmuseum.org/collectionimages/AN00606/AN00606756_001_l.jpg?width=304)

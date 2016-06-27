@@ -32,7 +32,9 @@ What do you take with you when you travel?
 
 ## Listen
 
-[Olduvai handaxe](http://www.bbc.co.uk/ahistoryoftheworld/objects/I3I8quLCR8exvdZeQPONrw)
+[Listen to this program online:
+"Olduvai handaxe"](http://www.bbc.co.uk/ahistoryoftheworld/objects/I3I8quLCR8exvdZeQPONrw)
+([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode3/))
 
 ![Image of Olduvai handaxe](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/British_Museum_Olduvai_handaxe.jpg/237px-British_Museum_Olduvai_handaxe.jpg)
 

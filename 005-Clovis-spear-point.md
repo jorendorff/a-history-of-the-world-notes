@@ -33,7 +33,9 @@ on a different scale, showing only the most recent events, as if you're
 
 ## Listen
 
-[Clovis spear point](http://www.bbc.co.uk/ahistoryoftheworld/objects/hLAME-wiTyaZU2KQf-P5vA)
+[Listen to this program online:
+"Clovis spear point"](http://www.bbc.co.uk/ahistoryoftheworld/objects/hLAME-wiTyaZU2KQf-P5vA)
+([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode5/))
 
 ![Image of a Clovis spear point](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Clovis_spear_point.jpg/375px-Clovis_spear_point.jpg)
 
