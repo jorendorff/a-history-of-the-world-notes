@@ -15,6 +15,10 @@ What does *modern* mean?
 
 What is an insurance policy?
 
+What does *clerical* mean?
+
+Who is Indiana Jones?
+
 
 ## Listen
 
@@ -26,15 +30,21 @@ What is an insurance policy?
 
 ## Discussion
 
-Why did humans "home in on a small number of target species" around ten
-thousand years ago?
-
 This program describes a dramatic change in climate across northern
 Africa. What happened? How did it lead to the domestication of cattle in
 Egypt?
 
+What is the archaeological evidence that the Egyptians had domesticated
+cattle? (Hint: Fekri Hassan talked about evidence that he found
+excavating early Egyptian farming villages.)
+
 What did the early Egyptians keep cattle for? Why do we think they
 weren't raised for meat or milk?
+
+Why did humans "home in on a small number of target species" around ten
+thousand years ago? (If your answer is that agriculture forces people to
+focus on a small number of species, this doesn't entirely answer the
+question. Why were so few species domesticated?)
 
 The program says that the native African cattle have become extinct. How
 do you think this happened?
@@ -46,11 +56,6 @@ are quite common [in graves], so we can be fairly sure that cows must
 have played a significant part in Egyptian daily life - such an
 important part, in fact, that they couldn't be left behind[...]." Do you
 think this is a contradiction, or are both conclusions reasonable?
-
-What is the archaeological evidence that the Egyptians had domesticated
-cattle? (Hint: Fekri Hassan talked about evidence that he found
-excavating early Egyptian farming villages.)
-
 
 
 ## Links
@@ -71,6 +76,9 @@ geoarchaeologist.
 [Martin Jones](http://www.arch.cam.ac.uk/directory/mkj12), archaeologist
 at the University of Cambridge.
 
+A fanstastic article, drawing on Jared Diamond's *Guns, Germs, and
+Steel*, answers the question:
+[Why can't all animals be domesticated?](http://www.livescience.com/33870-domesticated-animals-criteria.html)
 
 
 ## Rationale
