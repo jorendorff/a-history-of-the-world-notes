@@ -1,3 +1,5 @@
+## What is this?
+
 [*A History of the World in 100 Objects*](http://www.bbc.co.uk/ahistoryoftheworld/)
 is a series of 15-minute radio programs by British Museum director Neil MacGregor,
 first broadcast in 2010.
@@ -9,48 +11,72 @@ Fair warning: like most homeschooling materials, this will be pretty quirky.
 I know next to nothing about history myself. Oh - also I am only **10%** done.
 
 
-## How to use these notes
+## How do I use these notes?
 
-These are notes for one-on-one study. The idea is, the teacher (that's
-you) and student (aged 10 to 1.2 million years) find a quiet place and
-**spend 30 minutes on history each day.**
+**You'll need 30 minutes a day** to spend on history with your student.
 
-I know—who has the time, right? Not me. But if you make the time, I bet
-you'll find this rewarding.
+*   Above, you'll see a long list of links, like
+    [001-Mummy-of-Hornedjitef.md](001-Mummy-of-Hornedjitef.md).
+    Each day, click on a link to see notes for one episode.
 
-1.  Go to https://github.com/jorendorff/a-history-of-the-world-notes and
-    click on one of the episodes in the list.
-    You'll see a page with these sections:
+*   Discuss the "Before listening" questions.  Go fast, skip what you
+    already know, and use the internet to look things up.
 
-2.  **Before listening** - Things to know before listening. Your student
-    will know some of this stuff already. Don't make it a chore. Go
-    quickly and use the internet.
+*   Under "Listen", click the link and listen to the episode online.
+    For best results, actually sit there and listen with your student.
+    Or, [get the book](http://www.powells.com/book/history-of-the-world-in-100-objects-9780670022700/17-3)
+    and read together.
 
-3.  **Listen** - This section contains a link to the episode online.
-    Click the link, then the big pink "Listen to this
-    programme" button.
+*   The notes also include discussion questions, links, and so
+    forth. Take what you want, and leave the rest.
 
-    Or, find *A History of the World in 100 Objects*
-    as a podcast and listen to it that way.
+    To me, the discussion questions are the whole point, as it's
+    remembering what you've learned, putting it into words, doubting it,
+    rethinking it, and going further that really fixes any lesson in the
+    mind.
 
-4.  **Discussion** - Some suggested topics. A lot of these are review of
-    what's in the radio program. Just recalling what you've heard and
-    putting it in your own words helps fix it in your mind. (Also, it's
-    normal to miss, or fail to grasp, bits and pieces of each show. It
-    moves pretty fast.) Other questions are conversation starters. You
-    and your student are bright, curious people, so you'll probably want
-    to talk about your own stuff—and that's great.
+Of course, you can easily supplement all this with books from your local
+library.
 
-There might also be a **Links** section and maybe a **Rationale**
-section where I talk about how dumb I am and why I made the dumb
-decisions I made.
 
-If you do this every day for 100 days, then you'll be 100 days older—well
-on your way to becoming a historical treasure yourself!
-You may also pick up a smattering of world history.
-The purpose of any survey course is
-to provide a "spine" so that later, when you learn some historical fact,
-it won't have to sit in isolation in your memory.
-You'll have something already there to attach it to.
+## What makes this series good?
 
-Good luck. Let me know how it goes. :)
+*A History of the World in 100 Objects* is:
+
+*   *palatable* - It draws you in. Have a listen and you'll see what I
+    mean.
+
+*   *introductory* - You don't have to be a historian yourself to teach
+    from it.
+
+*   *smart* - It questions assumptions; it makes insightful
+    observations; it includes expert voices; it makes connections
+    between little events and major world-changing developments.
+
+*   *orderly* - Go on, laugh; but the series is a serious attempt to
+    tell a comprehensive story, in roughly chronological order,
+    [hitting all the most important themes](http://www.bbc.co.uk/ahistoryoftheworld/programme/)
+    and wrapping up on time. The first ten episodes address human
+    evolution and prehistory. Halfway through, you'll find yourself on
+    the Silk Road, in a series of five episodes that focus on the
+    exchange of goods and ideas between civilizations. And in episode
+    100, you'll reach the present day—a feat that no history course I
+    took ever managed to achieve.
+
+
+## Why does this matter to homeschoolers?
+
+The purpose of any survey course is to provide the "spine" of an
+education, so that what the student learns later doesn't have to sit in
+isolation in his or her memory. There will already be something there to
+attach it to. I think this is especially useful for history.
+
+But to provide that spine for world history, you need a single resource
+that makes an honest attempt to cover all the important points, from
+prehistory to the present. And that's a problem. Most comprehensive
+surveys are textbooks, and they are not very engaging. The most engaging
+history resources hop around in time, from one dramatic story to
+another, with no real plan in mind.
+
+My hope is that this series, which is both excellent and comprehensive,
+is the spine I've been looking for. Our experiment is ongoing.
