@@ -61,7 +61,7 @@ archaeologist, prehistory of Japan.
 [Japanese tea ceremony](https://en.wikipedia.org/wiki/Japanese_tea_ceremony)
 is meant to demonstrate respect through grace and good etiquette[...]."
 Wikipedia describes
-[the usual sequence of a noon *chaji*](https://en.wikipedia.org/wiki/Japanese_tea_ceremony#Usual_sequence_of_ceremony),
+[the usual sequence of a noon *chaji*](https://en.wikipedia.org/wiki/Japanese_tea_ceremony#Usual_sequence_of_ceremony)
 in some detail, concluding that it "can last up to four hours, depending
 on the type of ceremony performed, the number of guests, and the types
 of meal and tea served."
