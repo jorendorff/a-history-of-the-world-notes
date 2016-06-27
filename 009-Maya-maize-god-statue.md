@@ -24,13 +24,12 @@ What does it mean to say that a food is *stodgy*?
 What are foodies?
 
 
-
 ## Listen
 
 [Maya maize god statue](http://www.bbc.co.uk/ahistoryoftheworld/objects/Hvi54RDiQym6Pgd3_IsRKA)
+([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode9/))
 
 ![Image of the statue](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Maya_maize_god_statue.jpg/270px-Maya_maize_god_statue.jpg)
-![Variegated maize](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Corncobs.jpg/320px-Corncobs.jpg)
 
 
 ## Discussion
@@ -55,10 +54,15 @@ you think?
 (research) Corn and beans are traditionally eaten together. Is there a
 nutritional reason for this?
 
-(research) What is the biggest agricultural product of the United States
-today?
+(research) What are the major crops in the United States today? Which is
+the biggest, in terms of tons produced each year?
 
 
 ## Links
 
 [John Staller](http://brit.academia.edu/JohnEStaller), anthropologist
+
+[Golden rice](https://en.wikipedia.org/wiki/Golden_rice) is a variety of
+rice genetically engineered to produce vitamin A. The idea was that this
+could replace white rice in regions where people don't get enough
+vitamin A in their regular diet. It's controversial, though.
