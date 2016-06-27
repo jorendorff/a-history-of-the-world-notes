@@ -15,7 +15,7 @@ What is a Japanese tea ceremony?
 
 ## Listen
 
-[Jōmon pot](http://www.bbc.co.uk/ahistoryoftheworld/objects/tKmMd2a9SBuOeTay4eiStQ)
+[Jomon pot](http://www.bbc.co.uk/ahistoryoftheworld/objects/tKmMd2a9SBuOeTay4eiStQ)
 ([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode10/))
 
 ![Image of the pot](http://www.britishmuseum.org/collectionimages/AN00606/AN00606756_001_l.jpg?width=304)
@@ -25,9 +25,9 @@ What is a Japanese tea ceremony?
 
 Do you think the first pot was really made accidentally?
 
-The Jōmon people developed pottery thousands of years before
+The Jomon people developed pottery thousands of years before
 agriculture. Why didn't any other hunter-gatherer peoples have pottery?
-What was special about the Jōmon? (Hint: It has to do with what they
+What was special about the Jomon? (Hint: It has to do with what they
 ate.)
 
 Are acorns edible?
@@ -47,7 +47,11 @@ Jomon traditions, already very Japanese." Do you agree?
 
 [OA+.20: water-vessel / cooking-vessel](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=772951&partId=1)
 
-[Jōmon pottery (Wikipedia)](https://en.wikipedia.org/wiki/J%C5%8Dmon_Pottery)
+[Jomon culture](http://jomon-japan.jp/en/jomon-cultur/) shows pottery
+from different periods that shows several distinct styles, though not
+nearly the variety mentioned by Takoshi Doi in the program.
+
+[Jōmon pottery (Wikipedia)](https://en.wikipedia.org/wiki/J%C5%8Dmon_Pottery).
 
 [Simon Kaner](http://sainsbury-institute.org/about-us/staff-2/head-of-centre-for-archaeology-and-heritage/),
 archaeologist, prehistory of Japan.
