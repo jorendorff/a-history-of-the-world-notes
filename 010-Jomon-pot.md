@@ -13,6 +13,9 @@ What is lacquer?
 
 What is a Japanese tea ceremony?
 
+(timeline) Now is a good time to update your timeline with the cultures
+and artifacts from episodes 6-9.
+
 
 ## Listen
 
@@ -20,7 +23,7 @@ What is a Japanese tea ceremony?
 "Jomon pot"](http://www.bbc.co.uk/ahistoryoftheworld/objects/tKmMd2a9SBuOeTay4eiStQ)
 ([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode10/))
 
-![Image of the pot](http://www.britishmuseum.org/collectionimages/AN00606/AN00606756_001_l.jpg?width=304)
+[![Image of the pot](http://www.britishmuseum.org/collectionimages/AN00606/AN00606756_001_l.jpg?width=304)](http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=606756001&objectId=772951&partId=1#more-views)
 
 
 ## Discussion
@@ -44,14 +47,15 @@ The program says that "pots change your diet." How so?
 
 Niel MacGregor says, "As an outsider, I find the meticulous attention to
 detail and the patterning of the surface, and the long continuity of
-Jomon traditions, already very Japanese." Do you agree?
+Jomon traditions, already very Japanese." What's he talking about? Do
+you agree?
 
 
 ## Links
 
 [OA+.20: water-vessel / cooking-vessel](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=772951&partId=1)
 
-[Jomon culture](http://jomon-japan.jp/en/jomon-cultur/) shows pottery
+[Jomon Japan](http://jomon-japan.jp/en/jomon-cultur/) - Pottery
 from different periods that shows several distinct styles, though not
 nearly the variety mentioned by Takoshi Doi in the program.
 
@@ -59,6 +63,8 @@ nearly the variety mentioned by Takoshi Doi in the program.
 
 [Simon Kaner](http://sainsbury-institute.org/about-us/staff-2/head-of-centre-for-archaeology-and-heritage/),
 archaeologist, prehistory of Japan.
+
+[A recipe for acorn pancakes](http://www.almanac.com/content/how-prepare-acorns-cooking).
 
 "The elaborate and refined
 [Japanese tea ceremony](https://en.wikipedia.org/wiki/Japanese_tea_ceremony)
