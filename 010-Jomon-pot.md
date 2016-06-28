@@ -1,7 +1,8 @@
 # 10. Jōmon pot
 
-made around 5,000 BC  
-Clay, found in Japan
+Clay  
+About 7,000 years ago  
+Japan
 
 
 ## Before listening

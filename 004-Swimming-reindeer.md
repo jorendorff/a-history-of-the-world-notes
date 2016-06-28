@@ -1,8 +1,8 @@
 # 4. Swimming reindeer
 
 Mammoth tusk  
-13 thousand years ago  
-found at Montastruc, central France
+13,000 years ago  
+Found at Montastruc, central France
 
 
 ## Before listening

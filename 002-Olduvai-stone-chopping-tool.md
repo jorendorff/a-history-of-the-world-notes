@@ -1,8 +1,8 @@
 # 2. Olduvai stone chopping tool
 
 Basalt  
-Olduvai Gorge  
-about 2 million years ago
+About 2 million years ago  
+Found in Olduvai Gorge, Tanzania
 
 
 ## Before listening

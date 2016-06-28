@@ -1,8 +1,8 @@
 # 9. Maya maize god statue
 
-Stone statue  
-Honduras  
-715 AD
+Stone  
+715 AD  
+Honduras
 
 
 ## Before listening

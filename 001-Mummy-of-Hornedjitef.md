@@ -1,7 +1,7 @@
 # 1. Mummy of Hornedjitef
 
-excavated from Asasif, Thebes, Egypt  
-about 240 BC
+About 240 BC  
+Excavated from Asasif, Thebes, Egypt
 
 
 ## Before listening

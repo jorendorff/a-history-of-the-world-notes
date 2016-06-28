@@ -1,7 +1,7 @@
 # 8. Egyptian Clay Cattle
 
-5,500 years ago  
 Painted clay  
+5,500 years ago  
 Found at El Amra, Southern Egypt
 
 
