@@ -36,7 +36,9 @@ Are acorns edible?
 
 How did people store food before pottery?
 
-Are the patterns on the pot decorative or functional?
+Are the patterns on this pot decorative or functional?
+
+Where did the name "Jomon" come from?
 
 The program says that "pots change your diet." How so?
 
