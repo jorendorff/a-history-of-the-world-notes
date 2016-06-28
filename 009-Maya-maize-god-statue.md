@@ -58,6 +58,16 @@ nutritional reason for this?
 (research) What are the major crops in the United States today? Which is
 the biggest, in terms of tons produced each year?
 
+(research) Back in program #6, Niel MacGregor said: "What I find
+interesting about these vegetables is not just that they come originally
+from all over the world, but that none of them would exist in the form
+they do today if the plants they come from hadn't been carefully chosen,
+cherished and modified in a long process that began about ten thousand
+years ago with some intrepid and ingenious Ice Age cooks." In today's
+program, we learn that maize is derived from an older plant species,
+teosinte. Find pictures of teosinte and maize. How much has it been
+modified? Is there a visible difference?
+
 
 ## Links
 
