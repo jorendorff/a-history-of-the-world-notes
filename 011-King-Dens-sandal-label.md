@@ -72,8 +72,9 @@ pharaoh of the First Dynasty of Egypt.
 
 ## Rationale
 
-Obviously there is more to discuss. It is a potentially uncomfortable
-subject, though.
+Obviously there is more to discuss. How deep to go here depends on your
+student. The themes brought up here are all potentially uncomfortable
+subjects: power, coercion, propaganda, the motives of rulers.
 
 I was tempted to inject a long series of pointed questions about the
 idea that most people only put a few hundred numbers in their cell
