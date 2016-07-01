@@ -47,13 +47,23 @@ produced the Egyptian clay cattle, could not have produced a work of art
 like the Standard of Ur. Why not? What are the necessary ingredients for
 this kind of art, and what kind of society is required to obtain them?
 
+One of the ingredients listed in the program was "craftsmen able to
+specialise in making complex luxury objects". What other objects are
+shown in the Standard that may have been made by specialists?
+
 How does agricultural surplus lead to the emergence of classes?
 
 How are supplies and labor arranged to produce artwork now?
 
-What kind of vehicle is portrayed on the "war" side of the Standard of
-Ur? Have we seen vehicles before in this series? (research) When was the
+What kind of vehicle is portrayed on the "war" side of the standard?
+Have we seen vehicles before in this series? (research) When was the
 wheel invented?
+
+What objects shown on the standard seem to have been made of metal?
+(Hint: One item in particular, a ring, is easy to miss, but it's hard to
+see how it could be made of anything else.) (research) Did the Sumerians
+have metalworking at this time? What kind? Could the weapons shown on
+the standard be metal swords?
 
 
 ## Links
@@ -68,3 +78,8 @@ Lamia al-Gailani Werr is an Iraqi archaeologist. She gave
 as Isis was bulldozing the ancient Assyrian city of Nimrud. "I wish it's
 a nightmare, and it's not true, so I wake up in the morning and it's not
 true."
+
+Wikipedia claims both that the animals drawing the chariots on the
+standard [are onagers](https://en.wikipedia.org/wiki/Wheel#History) and
+that
+[onagers have never been domesticated](https://en.wikipedia.org/wiki/Onager).
