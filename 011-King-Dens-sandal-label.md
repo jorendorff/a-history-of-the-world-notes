@@ -7,13 +7,15 @@ Found in Abydos, Egypt
 
 ## Before Listening
 
-What is a political cartoon?
-
 (research) (timeline) What is Hammurabi's code? Mark it in your
 timeline. Are there any older codes of this kind? How far back does the
 practice go?
 
 What is ivory?
+
+What is a surplus?
+
+What is a political cartoon?
 
 What is a commander-in-chief?
 
@@ -24,6 +26,8 @@ What is rhetoric?
 What does *coerce* mean?
 
 What does *consolidate* mean?
+
+What is a regime?
 
 
 ## Listen
@@ -37,15 +41,21 @@ What does *consolidate* mean?
 
 ## Discussion
 
+This program uses the word "state" a lot: "the world's first cities and
+states"; "state control"; "a modern state"; "state building". What does
+the word "state" mean here?
+
 "So how do you lead and control a city or a state where most people
 don't know each other, and you can only personally persuade a very small
-percentage of the inhabitants?" The program doesn't explain why a city
-needs to be led and controlled. What do you think?
+percentage of the inhabitants?" Does the program explain why a city
+needs to be led and controlled? What do you think?
 
 "And the king and his advisers are looking for ways to reinforce Egypt's
 sense of its own nationhood, and support for their regime." If the king
 is so powerful, and in total control of all of Egypt, why do they care
-what Egyptians think or what they support?
+what Egyptians think or what they support? (Hint: Put yourself in the
+king's shoes. What's the worst that could happen if everybody just hates
+you?)
 
 How are cities led and controlled now?
 
@@ -75,6 +85,9 @@ pharaoh of the First Dynasty of Egypt.
 Obviously there is more to discuss. How deep to go here depends on your
 student. The themes brought up here are all potentially uncomfortable
 subjects: power, coercion, propaganda, the motives of rulers.
+
+My student was in a silly mood the day we did this program, and the
+discussion was not terribly satisfactory. Feedback is welcome.
 
 I was tempted to inject a long series of pointed questions about the
 idea that most people only put a few hundred numbers in their cell
