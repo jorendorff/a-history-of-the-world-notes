@@ -68,7 +68,7 @@ the standard be metal swords?
 
 ## Links
 
-[EA121201: The Standard of Ur](www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=368264&partId=1)
+[EA121201: The Standard of Ur](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=368264&partId=1)
 
 [Anthony Giddens](https://en.wikipedia.org/wiki/Anthony_Giddens),
 British sociologist, former Director of the London School of Economics.
