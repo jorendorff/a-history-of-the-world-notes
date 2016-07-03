@@ -1,7 +1,7 @@
 # 12. Standard of Ur
 
 Wooden box inlaid with mosaic  
-Around 2,500 BC
+Around 2,500 BC  
 Found in southern Iraq
 
 
