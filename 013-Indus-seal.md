@@ -39,23 +39,26 @@ What is a citadel?
 
 ## Discussion
 
+(research) The program says that the Indus civilization covered about
+200,000 square miles. How big is that? What familiar country or state
+covers about the same area?
+
+What were Indus seals were used for?
+
 "Is it possible that these societies were based not on coercion but on
 consensus?" Does the program ever answer this question? What do you
 think?
 
-What does the program say the Indus seals were probably used for? It
-occurred to me that if people carried seals around, they might have been
-for signing things—your stamp could be your signature. What makes this
-unlikely?
+What were the likely causes of the decline of the Indus civilization?
 
 (research) The program mentions that the cities of the Indus Valley
 civilization "show no signs of being fortified". First of all, is this
-really so remarkable? What would fortification look like
-in this era? How was Babylon fortified?
+really so remarkable? What would fortification look like in this era?
+How was Babylon (for example) fortified?
 
 (research) Is it even true that the Indus Valley cities "show no signs
-of being fortified"? Part of Mohenjo-Daro is called "the Citadel" by the
-archaeologists who excavated it. What was it? Is it really a citadel?
+of being fortified"? Part of Mohenjo-Daro was called "the Citadel" by the
+archaeologists who excavated it. What was it? Was it really a citadel?
 How does
 [Wikipedia describe Mohenjo-daro's fortifications](https://en.wikipedia.org/wiki/Mohenjo-daro)?
 Were there city walls? What about Harappa?
@@ -99,6 +102,21 @@ The most famous pieces of Indus Valley art are the
 and the
 [Priest-King](https://www.harappa.com/slide/priest-king-mohenjo-daro) of
 Mohenjo-Daro.
+
+Another possible environmental factor in the decline of the Indus Valley
+civilization was increased soil salinity. According to a 1985 source,
+"Increased salinity of soil made the land [around the town of Lothal]
+inhospitable to life, including crops."
+([Wikipedia: Lothal](https://en.wikipedia.org/wiki/Lothal))
+
+The series has now dedicated a show each to the Mesopotamian, Egyptian,
+and Indus Valley civilizations. Two others arose around this time:
+[Norte Chico civilization](https://en.wikipedia.org/wiki/Norte_Chico_civilization)
+in what is now Peru; and
+[early Chinese civilization](https://en.wikipedia.org/wiki/Shang_dynasty)
+in the Yellow River valley. The
+[Olmecs](https://en.wikipedia.org/wiki/Olmec) are another apparently
+independent Neolithic civilization. We'll hear from them in episode 29.
 
 [The partition of India](https://en.wikipedia.org/wiki/Partition_of_India). "In
 the riots which preceded the partition in the Punjab Province, it is
