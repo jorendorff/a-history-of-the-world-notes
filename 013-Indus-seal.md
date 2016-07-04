@@ -78,7 +78,7 @@ ENX VNCL HWONLBOVZ OGZNBF OM IBONL.)
 
 ## Links
 
-[1892,1210.1: stamp-seal](www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=225587&partId=1)
+[1892,1210.1: stamp-seal](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=225587&partId=1)
 
 [Nayanjot Lahiri](http://www.infosys-science-foundation.com/prize/laureates/2013/nayanjot-lahiri.asp)
 has written
