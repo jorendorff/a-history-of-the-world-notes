@@ -49,7 +49,6 @@ merchants? Was there money? (For that matter, is there a single currency
 across all these places today?)
 
 
-
 ## Links
 
 [1901,0206.1: axe](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1363130&partId=1)
