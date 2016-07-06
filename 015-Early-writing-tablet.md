@@ -89,8 +89,6 @@ popular press, as *GOD*; this was mainly because of his initials."
 The epic poem telling of the invention of writing is
 [Enmerkar and the Lord of Aratta](https://en.wikipedia.org/wiki/Enmerkar_and_the_Lord_of_Aratta).
 
-[Be a Scribe!](http://www.ancient.eu/article/189/)
-
 
 ## Rationale
 
