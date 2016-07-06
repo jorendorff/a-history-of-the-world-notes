@@ -40,8 +40,8 @@ What is a citadel?
 ## Discussion
 
 (research) The program says that the Indus civilization covered about
-200,000 square miles. How big is that? What familiar country or state
-covers about the same area?
+200,000 square miles. How big is that? What's a familiar country or
+state that covers about the same area?
 
 What were Indus seals were used for?
 
