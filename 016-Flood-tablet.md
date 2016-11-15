@@ -29,9 +29,8 @@ What is remarkable about the book _The Origin of Species_? Who was the author?
 
 ## Discussion
 
-How did the story come into being?
-
-When and where did the idea of writing a story begin?
+When and where was this tablet made? What evidence is there that the
+Flood story was already old by that time?
 
 George Smith's strange behavior on translating the tablet brings to mind
 another story of someone running around naked after making an exciting
@@ -53,7 +52,8 @@ controlled by deities who don't like human beings very much, and for
 whom 'might makes right'," and the Bible's telling of the same story.
 What difference?
 
-The tablet marks "a turning point in the story of writing". How so?
+The Epic of Gilgamesh marks "a turning point in the story of writing".
+How so?
 
 In particular: "Literature written down like this can always become
 world literature." Why?
