@@ -69,6 +69,9 @@ pictographic writing? Can you write a poem in pictographs?
 look more like modern writing than the pictographs on this tablet. What
 is this kind of writing called?
 
+(timeline) Now is a good time to update your timeline with the cultures
+and artifacts from episodes 11-15.
+
 
 ## Links
 
