@@ -51,17 +51,15 @@ How is papyrus made?
 
 Why are there more surviving texts from Babylon around this time than from Egypt?
 
-Why are ancient papyrus manuscripts so rare?
-
 The episode mentions that Egypt required civil servants who could, among other things:
 
-- supervise building works
-- organize payments
-- manage food supplies
-- plan troop movements
-- compute the flood levels of the Nile
+*   supervise building works
+*   organize payments
+*   manage food supplies
+*   plan troop movements
+*   compute the flood levels of the Nile
 
-What sort of math were involved in each of these tasks?
+What sort of math might be involved in each of these tasks?
 
 What does the papyrus tell us about daily life in Egypt?
 
