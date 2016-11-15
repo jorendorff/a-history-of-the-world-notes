@@ -62,7 +62,6 @@ How did the Ptolemies' dynasty come to an end?
 "Rosetta Stone"](http://www.bbc.co.uk/ahistoryoftheworld/objects/awwjbIoORUaQXm9LmiTz8A)
 ([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode33/))
 
-https://en.wikipedia.org/wiki/A_History_of_the_World_in_100_Objects
 [![Image of the Rosetta Stone](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/410px-Rosetta_Stone.JPG)](https://en.wikipedia.org/wiki/Rosetta_Stone#/media/File:Rosetta_Stone.JPG)
 
 
