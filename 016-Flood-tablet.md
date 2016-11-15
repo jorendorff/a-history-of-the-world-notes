@@ -64,7 +64,7 @@ literature with the purpose of museums. What is the common thread?
 
 ## Links
 
-[???museum-number: ???name](???)
+[K.3375: The Flood Tablet / The Gilgamesh Tablet](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=309929&partId=1)
 
 [Genesis 6:5](https://www.bible.com/bible/111/gen.6.niv) to 9:17
 tell the story of Noah and the flood.
