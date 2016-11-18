@@ -47,9 +47,8 @@ over 1000 years later". Can you name any world leaders from 1000 years
 ago?
 
 (research) Ramesses II was "lucky" that the Nile flooded regularly
-during his reign. Why? What ultimately happened to the
-pharaohs...? (???ISTR that eventually there was a long bad stretch that
-completely discredited the pharaohs)
+during his reign. Why? A thousand years earlier, from 2200 to 2150 BC, a
+severe drought prevented the normal floods. What happened?
 
 (math) How much did the statue originally weigh? How many people would
 it take to move it?
@@ -90,11 +89,11 @@ is 66 feet (20m) tall.
 [Karen Exell](https://ucl.academia.edu/KarenExell) is a museum curator
 and a lecturer in Museum Studies.
 
+[Slavery in Ancient Egypt](http://www.reshafim.org.il/ad/egypt/timelines/topics/slavery.htm).
+Includes primary sources.
+
 [The Great Temple at Abu Simbel](https://en.wikipedia.org/wiki/Abu_Simbel_temples#Great_Temple)
 is another monument Ramessess II built to himself.
-
-[Slavery in Ancient Egypt](http://www.reshafim.org.il/ad/egypt/timelines/topics/slavery.htm).
-Lots of primary sources.
 
 [![An aerial photo of the Ramesseum.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg/580px-SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg)](https://commons.wikimedia.org/wiki/File:SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg)
 
@@ -108,7 +107,7 @@ You can waste days reading about giant statues on the Internet. A few favorites:
     "Strangely there are two right hands [...] amongst the remains of the statue [...]."
 
 *   "[Stalin's Monument](https://en.wikipedia.org/wiki/Stalin_Monument_%28Prague%29)
-    (sometimes also derisively nicknamed "the queue for meat") was a massive
+    (sometimes also derisively nicknamed 'the queue for meat') was a massive
     granite statue honoring Joseph Stalin [...] in Prague,
     Czechoslovakia. It was the world's largest representation of Stalin, and
     was destroyed in 1962."
