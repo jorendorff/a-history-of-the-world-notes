@@ -15,7 +15,7 @@ Where is Iran?
 
 Where was Nineveh?
 
-What is remarkable about the book _The Origin of Species_? Who was the author?
+What is remarkable about the book _The Origin of Species_? Who wrote it?
 
 
 ## Listen
@@ -83,22 +83,22 @@ which you can watch for free](http://www.learner.org/courses/worldlit/gilgamesh/
 the Assyriologist who first translated the tablet. A few years earlier,
 Smith discovered an inscription describing "a total eclipse of the sun
 in the month of Sivan". By connecting this event to a known eclipse in
-763 BC, Smith learned how years in our calendar line up with those in
-the Assyrian calendar. According to the article, "This discovery is the
-cornerstone of ancient Near Eastern chronology."
+763 BC, Smith was able to translate dates between the Assyrian calendar
+and the Christian calendar for the first time. According to the article,
+"This discovery is the cornerstone of ancient Near Eastern chronology."
 
 The Epic of Gilgamesh is amazing and everyone should read it.
 But [a faithful translation of the original Akkadian
 tablets](http://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab1.htm)
-is an odd read. The source material is so fragmentary that it's like
+is tough going. The source material is so fragmentary that it's like
 reading a half-finished crossword puzzle. The 1999 Penguin Classics
-edition by Andrew George is one of those. Consider instead
-the [1960 prose version by Nancy
-Sandars](https://www.amazon.com/EPIC-GILGAMESH-Penguin-classics/dp/B003VN9J6E/).
-She weaves together multiple sources, spanning centuries, and fills the
-gaps with her best guesses. Or try [the vividly illustrated picture book
-trilogy by Ludmilla
-Zeman](https://www.amazon.com/Gilgamesh-King-Trilogy-Ludmila-Zeman/dp/0887764371/ref=sr_1_1?s=books&ie=UTF8&qid=1479143689&sr=1-1&keywords=gilgamesh+the+king).
+edition by Andrew George is one of those. It's really a source for academics.
+For pleasure, read [Nancy Sandars' 1960 prose
+version](https://www.amazon.com/EPIC-GILGAMESH-Penguin-classics/dp/B003VN9J6E/).
+She weaves together multiple sources and fills the gaps with her best
+guesses. [The picture book trilogy by Ludmilla
+Zeman](https://www.amazon.com/Gilgamesh-King-Trilogy-Ludmila-Zeman/dp/0887764371/ref=sr_1_1?s=books&ie=UTF8&qid=1479143689&sr=1-1&keywords=gilgamesh+the+king)
+is a beautifully illustrated retelling for children.
 
 
 ## Rationale

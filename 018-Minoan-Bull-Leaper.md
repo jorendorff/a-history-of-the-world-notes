@@ -57,8 +57,8 @@ was made? What reason is given for this shortage?
 What is the lost wax technique?
 
 Lucy Blue laments: "Unfortunately, we have only a limited number of
-shipwrecks [...]." Why is this so unfortunate (for historians, not
-for the Minoan traders and sailors)?
+shipwrecks [...]." Why is this so unfortunate (for archaeologists, at
+least)?
 
 (research) How large must a ship be in order to carry 15 tons of cargo?
 
@@ -80,15 +80,15 @@ defense." Today, six cities and towns on Crete have populations over 10,000.
 
 [Arthur Evans](https://en.wikipedia.org/wiki/Arthur_Evans), English archaeologist, who excavated the Minoan "palace" at Knossos.
 
-[![Image of a modern bull leaper](https://commons.wikimedia.org/wiki/File:Recorte_sobre_un_toro_-_2008.jpg)](https://commons.wikimedia.org/wiki/File:Recorte_sobre_un_toro_-_2008.jpg)
+[![Image of a modern bull leaper](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Recorte_sobre_un_toro_-_2008.jpg/320px-Recorte_sobre_un_toro_-_2008.jpg)](https://commons.wikimedia.org/wiki/File:Recorte_sobre_un_toro_-_2008.jpg)
 
-[Bull-leaping on Wikipedia]. Above, a picture of a modern *recortador* leaping a bull.
+[Bull-leaping on Wikipedia](https://en.wikipedia.org/wiki/Bull-leaping).
+Above, a picture of a modern *recortador* leaping a bull.
 [This bull-leaping video features Sergio Delgado](https://www.youtube.com/watch?v=PSENunT75xY)
 and four other *recortadores*. The first leap happens at 1:00.
-(Neither the bull nor any of the participants are injured in this
-video. Bullfighting is widely seen as a horrifying blood sport; this is
-tame and clean by comparison, but to my eye, an element of cruelty
-remains.)
+(Neither the bull nor any participant is injured in this video.
+Bullfighting is widely seen as a horrifying blood sport; this is tame
+and clean by comparison, but to my eye, an element of cruelty remains.)
 
 [Lucy Blue](http://www.southampton.ac.uk/archaeology/about/staff/lkb.page)
 is a senior lecturer in archaeology at the University of Southampton.
