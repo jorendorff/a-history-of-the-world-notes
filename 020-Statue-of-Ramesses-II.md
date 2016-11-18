@@ -92,12 +92,11 @@ and a lecturer in Museum Studies.
 [Slavery in Ancient Egypt](http://www.reshafim.org.il/ad/egypt/timelines/topics/slavery.htm).
 Includes primary sources.
 
-[The Great Temple at Abu Simbel](https://en.wikipedia.org/wiki/Abu_Simbel_temples#Great_Temple)
-is another monument Ramessess II built to himself.
-
 [![An aerial photo of the Ramesseum.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg/580px-SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg)](https://commons.wikimedia.org/wiki/File:SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg)
 
 Above: [The Ramesseum](https://en.wikipedia.org/wiki/Ramesseum) today.
+[The Great Temple at Abu Simbel](https://en.wikipedia.org/wiki/Abu_Simbel_temples#Great_Temple)
+is another monument Ramessess II built to himself.
 
 [Mt. Rushmore](https://en.wikipedia.org/wiki/Mount_Rushmore).
 
