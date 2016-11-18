@@ -22,8 +22,6 @@ Where is Luxor?
 
 What does *in situ* mean?
 
-What is propaganda?
-
 What is a circus strong man?
 
 What are hydraulics?
