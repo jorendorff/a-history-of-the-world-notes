@@ -12,7 +12,11 @@ by Percy Bysshe Shelley. What is this poem about?
 
 What is a plinth?
 
+What is a bumper harvest?
+
 What is abrasion?
+
+What is logistics?
 
 Where is Abu Simbel and what's there?
 
@@ -27,6 +31,8 @@ What is a circus strong man?
 What are hydraulics?
 
 Where is Mt. Rushmore?
+
+What is transience?
 
 
 ## Listen
