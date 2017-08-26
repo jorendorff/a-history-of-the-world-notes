@@ -11,20 +11,9 @@ found in Western China
 ritual feasting, a centuries-old tradition
 Shang Dynasty lasted over 500 years, saw the first large cities (120,000 people!)
 
-What is a steppe?
-steppes of central Asia
-
-What is a punch bowl?
-
-What is conscription?
-
 "first dynasties"
 
-"sacral vessel" :-|
-
-Marquis
-
-chosen people
+"chosen people"
 
 where was the shang kingdom?
 
@@ -34,14 +23,22 @@ where was the shang kingdom?
 
 *Zhou* is pronounced "Joe"; *gui* is pronounced "gway".
 
+What is a steppe? Where in the world can steppes be found? What do they look like?
+
+What is a punch bowl?
+
+What is conscription?
+
+What is a Marquis?
+
 
 ## Listen
 
 [Listen to this program online:
-"???"](http://www.bbc.co.uk/ahistoryoftheworld/objects/???)
-([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode???/))
+"Chinese Zhou ritual vessel"](http://www.bbc.co.uk/ahistoryoftheworld/objects/9ncaOZABRHO5tcKeacBlJQ)
+([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode23/))
 
-[![Image of ???](https://upload.wikimedia.org/wikipedia/commons/???)](???)
+[![Image of the Zhou ritual vessel](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/British_Museum_Kang_Hou_Gui_Front.jpg/640px-British_Museum_Kang_Hou_Gui_Front.jpg)](https://en.wikipedia.org/wiki/Kang_Hou_gui#/media/File:British_Museum_Kang_Hou_Gui_Top.jpg)
 
 
 ## Discussion
@@ -55,11 +52,13 @@ where was the shang kingdom?
 
 ## Links
 
-[???museum-number: ???name](???)
-
-ceramic and jade of the Shang and Zhoe Dynasties
+[1977,0404.1: gui](https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=226804&partId=1)
 
 [Names of China](https://en.wikipedia.org/wiki/Names_of_China). 
+
+[Shang and Zhou ceramics](http://www.chinaonlinemuseum.com/ceramics-bronze-age.php).
+
+??? Shang and Zhou jade
 
 Dame Jessica Rawson, renowned expert on Chinese bronze
 
