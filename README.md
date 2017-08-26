@@ -8,7 +8,7 @@ This repository contains notes for using the series in homeschooling as
 an introduction to world history.
 
 Fair warning: like most homeschooling materials, this will be pretty quirky.
-I know next to nothing about history myself. Oh - also I am only **21%** done.
+I know next to nothing about history myself. Oh - also I am only **22%** done.
 
 
 ## How do I use these notes?
