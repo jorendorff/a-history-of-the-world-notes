@@ -44,7 +44,7 @@ What does it mean to *appropriate* something?
 "Sphinx of Taharqo"](http://www.bbc.co.uk/ahistoryoftheworld/objects/ImJ-d4-oR8a7_Vw-Ty0j1g)
 ([transcript](http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode22/))
 
-[![Image of the Sphinx of Taharqo(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sphinx_of_Taharqo_oblique_view.jpg/433px-Sphinx_of_Taharqo_oblique_view.jpg)](https://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=596762001&objectId=116211&partId=1#more-views)
+[![Image of the Sphinx of Taharqo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sphinx_of_Taharqo_oblique_view.jpg/433px-Sphinx_of_Taharqo_oblique_view.jpg)](https://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=596762001&objectId=116211&partId=1#more-views)
 
 
 ## Discussion
