@@ -5,20 +5,6 @@ around 1050 BC
 found in Western China
 
 
-## ??? notes
-
-
-ritual feasting, a centuries-old tradition
-Shang Dynasty lasted over 500 years, saw the first large cities (120,000 people!)
-
-"first dynasties"
-
-"chosen people"
-
-where was the shang kingdom?
-
-
-
 ## Before listening
 
 *Zhou* is pronounced "Joe"; *gui* is pronounced "gway".
@@ -30,6 +16,8 @@ What is a punch bowl?
 What is conscription?
 
 What is a Marquis?
+
+What are rituals? What rituals do you observe?
 
 
 ## Listen
@@ -43,23 +31,33 @@ What is a Marquis?
 
 ## Discussion
 
-* rituals - what are your rituals?
-* How do we show respect for the dead?
-* the Mandate of Heaven
-* parallel between Mandate of Heaven and democracy?
-* Why is the history of this time mainly recovered from pieces of bronze like this *gui*?
+Why is the history of these two early Chinese dynasties mainly recovered
+from pieces of bronze like this *gui*?
+
+Suppose archaeologists dig up our civilization three thousand years from
+now. What will be their primary source of information about us?
+
+How do we show respect for the dead in our culture?
+
+What is the Mandate of Heaven?
+
+The archaeologist and art historian Wang Tao draws a parallel between
+the Mandate of Heaven and democracy. What if anything do they have in
+common? Is there a function that both serve?
+
+(research) The script used in Shang and Zhou bronzes is a direct
+ancestor of modern Chinese writing. There is one even earlier source of
+written Chinese characters. What is it?
 
 
 ## Links
 
 [1977,0404.1: gui](https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=226804&partId=1)
 
+[Chinese bronze inscriptions](https://en.wikipedia.org/wiki/Chinese_bronze_inscriptions).
+
 [Names of China](https://en.wikipedia.org/wiki/Names_of_China). 
 
 [Shang and Zhou ceramics](http://www.chinaonlinemuseum.com/ceramics-bronze-age.php).
 
-??? Shang and Zhou jade
-
-Dame Jessica Rawson, renowned expert on Chinese bronze
-
-Wang Tao, archaeologist at the University of London
+[Dame Jessica Rawson](https://en.wikipedia.org/wiki/Jessica_Rawson), English art historian and curator.
