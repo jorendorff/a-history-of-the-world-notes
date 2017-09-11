@@ -13,7 +13,17 @@ What is Cartier? What is Tiffany's?
 
 What is Avebury?
 
+Where is the Baltic?
+
+Where is Scandinavia?
+
 What are the *workings* of a mine or quarry?
+
+What is a *lining*?
+
+What does *illicit* mean?
+
+What is *context*?
 
 
 ## Listen
@@ -104,6 +114,5 @@ misinterpreted. Even very high infant mortality doesn't affect the
 demographics of a population much. When you walk into any society and
 look around, you're looking at the people who lived.  For the same
 reason, it's possible for old people to predominate even in a society
-where almost most people don't live to old age. I wanted to put in some
-kind of enlightening question about this, but couldn't find a good
-angle.
+where most people don't live to old age. I wanted to put in some kind of
+enlightening question about this, but couldn't find a good angle.

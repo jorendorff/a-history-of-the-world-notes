@@ -23,7 +23,7 @@ Who was Plato? Where was he from?
 
 What does *adulterated* mean?
 
-What does *culinary* maen?
+What does *culinary* mean?
 
 What is battery farming?
 

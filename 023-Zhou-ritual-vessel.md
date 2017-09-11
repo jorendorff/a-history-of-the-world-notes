@@ -56,7 +56,7 @@ written Chinese characters. What is it?
 
 [Chinese bronze inscriptions](https://en.wikipedia.org/wiki/Chinese_bronze_inscriptions).
 
-[Names of China](https://en.wikipedia.org/wiki/Names_of_China). 
+[Names of China](https://en.wikipedia.org/wiki/Names_of_China).
 
 [Shang and Zhou ceramics](http://www.chinaonlinemuseum.com/ceramics-bronze-age.php).
 
