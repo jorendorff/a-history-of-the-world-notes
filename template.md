@@ -22,4 +22,5 @@
 
 ## Links
 
-[???museum-number: ???name](???)
+[???museum-number: ???name](???) - this is the hardest thing to find; see https://www.britishmuseum.org/explore/a_history_of_the_world/objects.aspx#25 and http://www.britishmuseum.org/research/collection_online/search.aspx?searchText=gold+coin
+
