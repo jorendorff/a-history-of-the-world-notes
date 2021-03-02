@@ -11,14 +11,12 @@ locate the Persian Empire
 
 Shiraz, Iran
 
-contrast Persian and Roman approaches to treatment of conquered peoples
-
 the god Bes
-
-postal service motto
 
 
 ## Before listening
+
+Where was the Persian Empire? What countries are there today?
 
 What is statecraft?
 
@@ -42,8 +40,15 @@ What does *grandiloquent* mean?
 
 ## Discussion
 
-"Nothing tells you more about a state than its transport system." ???
+What was different about the Persian Empire's treatment of conquered
+peoples, compared to earlier conquering powers? How do the Roman Empire
+and the Persian Empire compare in this regard?
 
+"Nothing tells you more about a state than its transport system." Is this true?
+What could transport tell me about the place where you live?
+
+(trivia) The United States Postal Service has a famous unofficial motto.
+What is it? Where did it come from?
 
 
 
@@ -55,6 +60,6 @@ historian and writer Tom Holland
 
 Greek historian Herodotus
 
-Michael Axworthy, Director of the Centre for Persian and Iranian studies at the University of Exeter, and the author of 'Empire of the Mind' - a history of the enduring ideal of the ancient Persian Empire
-
-
+Michael Axworthy, Director of the Centre for Persian and Iranian studies
+at the University of Exeter, and the author of *Empire of the Mind*, a
+history of the ancient Persian Empire.
